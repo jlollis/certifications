@@ -9,7 +9,7 @@
 
 - [Johns Hopkins: Ruby on Rails Specialization](https://jlollis.github.io/certifications/ruby-on-rails-specialization/Coursera_TKJ5W57UYKKE_Ruby_on_Rails.pdf)
 
-- [University of Washington: Programming Languages, Part A](https://jlollis.github.io/certifications/u-dub-programming-languagesCoursera%20TFRAXFZ2ZPGK.pdf)
+- [University of Washington: Programming Languages, Part A](https://jlollis.github.io/certifications/u-dub-programming-languages/Coursera%20TFRAXFZ2ZPGK.pdf)
 
 - [University of Washington: Programming Languages, Part B](https://jlollis.github.io/certifications/u-dub-programming-languages/Coursera%20J8VPC9295BMM.pdf)
 
