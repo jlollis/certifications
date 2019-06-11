@@ -15,4 +15,4 @@
 
 - [University of Washington: Programming Languages, Part C](https://jlollis.github.io/certifications/u-dub-programming-languages/Coursera%20YHZTRRU7QYBB.pdf)
 
--[Macquarie University: Communicate with Impact (Business)](https://jlollis.github.io/certifications/Communicate-with-impact/Coursera%20D4WF3Q5RB56L.pdf)
+- [Macquarie University: Communicate with Impact (Business)](https://jlollis.github.io/certifications/Communicate-with-impact/Coursera%20D4WF3Q5RB56L.pdf)
