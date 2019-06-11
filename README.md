@@ -17,4 +17,4 @@
 
 - [Macquarie University: Communicate with Impact (Business)](https://jlollis.github.io/certifications/Communicate-with-impact/Coursera%20D4WF3Q5RB56L.pdf)
 
-- [IBM: Introduction to Artifical Intelligence](https://jlollis.github.io/certifications/Communicate-with-impact/Coursera%20D4WF3Q5RB56L.pdf)
+- [IBM: Introduction to Artifical Intelligence](https://jlollis.github.io/certifications/ibm-intro-to-ai/Coursera%20PJR2Y536NLW3.pdf)
