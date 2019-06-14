@@ -9,11 +9,10 @@
 
 - [Johns Hopkins: Ruby on Rails Specialization](https://jlollis.github.io/certifications/ruby-on-rails-specialization/Coursera_TKJ5W57UYKKE_Ruby_on_Rails.pdf)
 
-- [University of Washington: Programming Languages, Part A](https://jlollis.github.io/certifications/u-dub-programming-languages/Coursera%20TFRAXFZ2ZPGK.pdf)
-
-- [University of Washington: Programming Languages, Part B](https://jlollis.github.io/certifications/u-dub-programming-languages/Coursera%20J8VPC9295BMM.pdf)
-
-- [University of Washington: Programming Languages, Part C](https://jlollis.github.io/certifications/u-dub-programming-languages/Coursera%20YHZTRRU7QYBB.pdf)
+- [University of Washington - CSE341: Programming Languages](https://jlollis.github.io/certifications/u-dub-programming-languages/u-dub-programming-languages/UW_Programming_Languages_CSE341.pdf)
+  - [University of Washington: Programming Languages, Part A](https://jlollis.github.io/certifications/u-dub-programming-languages/Coursera%20TFRAXFZ2ZPGK.pdf)
+  - [University of Washington: Programming Languages, Part B](https://jlollis.github.io/certifications/u-dub-programming-languages/Coursera%20J8VPC9295BMM.pdf)
+  - [University of Washington: Programming Languages, Part C](https://jlollis.github.io/certifications/u-dub-programming-languages/Coursera%20YHZTRRU7QYBB.pdf)
 
 - [IBM: Data Visualization with Python](https://jlollis.github.io/certifications/ibm-data-visualization-with-python/Coursera%20LQTRE2TMP2F2.pdf)
 
@@ -22,3 +21,5 @@
 - [IBM: Introduction to Artifical Intelligence](https://jlollis.github.io/certifications/ibm-intro-to-ai/Coursera%20PJR2Y536NLW3.pdf)
 
 - [deeplearning.ai: Natural Language Processing With TensorFlow](https://jlollis.github.io/certifications/natural-language-processing-with-tensorflow/Coursera%20HZZBGZGC6Q4K.pdf)
+
+
