@@ -10,9 +10,7 @@
 - [Johns Hopkins: Ruby on Rails Specialization](https://jlollis.github.io/certifications/ruby-on-rails-specialization/Coursera_TKJ5W57UYKKE_Ruby_on_Rails.pdf)
 
   - [Ruby on Rails: An Introduction](https://jlollis.github.io/certifications/ruby-on-rails-specialization/Coursera_TKJ5W57UYKKE_Ruby_on_Rails.pdf)
-  
   - [Rails with Active Record and Action Pack](https://jlollis.github.io/certifications/ruby-on-rails-specialization/Coursera%20MDGLDHQHBN5F.pdf)
-  
   - [Ruby on Rails Web Services and Integration with MongoDB](https://jlollis.github.io/certifications/ruby-on-rails-specialization/Coursera%20B5MBDXQ2JUD6.pdf)
 
 - [University of Washington - CSE341: Programming Languages](https://jlollis.github.io/certifications/u-dub-programming-languages/UW_Programming_Languages_CSE341.pdf)
