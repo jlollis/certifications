@@ -27,4 +27,8 @@
 
 - [deeplearning.ai: Natural Language Processing With TensorFlow](https://jlollis.github.io/certifications/natural-language-processing-with-tensorflow/Coursera%20HZZBGZGC6Q4K.pdf)
 
+- [deeplearning.ai: In-browser model training and serving using
+TensorFlow.js](In-browser model training and serving using
+TensorFlow.js)
+
 
