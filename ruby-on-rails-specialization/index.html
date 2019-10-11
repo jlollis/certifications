@@ -6,40 +6,43 @@
 <title>JHU Ruby Specialization Certificates</title>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.min.js"></script>
 <style>
+
+html, body {
+  height: 100%;
+}
+
 /*
 PDFObject appends the classname "pdfobject-container" to the target element.
 This enables you to style the element differently depending on whether the embed was successful.
 */
 .pdfobject-container {
-	width: 100%;
-	max-width: 600px;
-	height: 600px;
-	margin: 2em 0;
+  height: 100%;
+  border: solid 1px #666;
 }
 /* PDFObject automatically assigns the class name "pdfobject" to the <embed> element */
-.pdfobject { border: solid 1px #666; }
+.pdfobject { 
+  border: solid 1px #666;
+}
 </style>
 </head>
 
 <body>
 <div id="pdf1"></div>
-<div id="pdf2"></div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.min.js"></script>
 
 <script>
 
 var options = {
-	page: 2,
+	page: 1,
 	pdfOpenParams: {
 		navpanes: 1,
-		view: "FitH",
-		pagemode: "thumbs"
+		view: "FitH"
 	}
 };
 
-PDFObject.embed("Coursera_TKJ5W57UYKKE_Ruby_on_Rails.pdf", "#pdf1", options);
-PDFObject.embed("Coursera%20MDGLDHQHBN5F.pdf", "#pdf2");
+PDFObject.embed("JHU_Ruby_on_Rails_Specialization.pdf", "#pdf1", options);
+
 </script>
 
 </body>
