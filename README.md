@@ -21,7 +21,9 @@
 
 - [IBM: Data Visualization with Python](https://jlollis.github.io/certifications/ibm-data-visualization-with-python/Coursera%20LQTRE2TMP2F2.pdf)
 
-- [IBM: AI Workflow Feature Engineering and Bias Detection](http://jlollis.github.io/certifications/master/ibm-ai-workflow/Coursera%207S5BRJ6B963F.pdf)
+- [IBM: AI Workflow Feature Engineering and Bias Detection](http://jlollis.github.io/certifications/ibm-ai-workflow/Coursera%207S5BRJ6B963F.pdf)
+
+- [IBM: Building Deep Learning Models with Tensorflow](https://jlollis.github.io/certifications/ibm-building-deep-learning-models/6K4KREXY462N.pdf)
 
 - [Macquarie University: Communicate with Impact (Business)](https://jlollis.github.io/certifications/Communicate-with-impact/Coursera%20D4WF3Q5RB56L.pdf)
 
