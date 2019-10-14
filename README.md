@@ -1,9 +1,9 @@
 ### MOOC Certificates
 
 
-- [From Nand to Tetris](http://jlollis.github.io/certifications/nand2tetris/Coursera%202MC47CGGN4F9.pdf)
+- [From Nand to Tetris: Part I](http://jlollis.github.io/certifications/nand2tetris/Coursera%202MC47CGGN4F9.pdf)
 
-- [From Nand to Tetris: Part II](http://jlollis.github.io/certifications/nand2tetris/Coursera%202MC47CGGN4F9.pdf)
+- [From Nand to Tetris: Part II](http://jlollis.github.io/certifications/nand2tetris/nand-to-tetris-part-2/Nand_to_Tetris_Part_II_Coursera_7LE8XNETJ7NB.pdf)
 
 
 - [Stanford: Databases](http://jlollis.github.io/certifications/stanford-databases/Databases-Statements-of-Accomplishment-Full-Course.pdf)
