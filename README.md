@@ -37,3 +37,5 @@
 - [deeplearning.ai: In-browser model training and serving usingTensorFlow.js](https://jlollis.github.io/certifications/tensorflowjs/Coursera%20-%20Tensorflowjs%20G8A5J99VSYUX.pdf)
 
 - [Stanford: Cryptography I](https://jlollis.github.io/certifications/stanford-crypotgraphy-i/Coursera%20Y5JR6BJJC5ZT.pdf)
+
+- [EPFL: Functional Programming Principles in Scala](https://jlollis.github.io/certifications/functional-programming-principles-in-scala/Coursera%20DJE2MJ9CX3P8.pdf)
