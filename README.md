@@ -16,7 +16,7 @@
   - [Rails with Active Record and Action Pack](https://jlollis.github.io/certifications/ruby-on-rails-specialization/02%20Rails%20with%20Active%20Record%20and%20Action%20Pack%20MDGLDHQHBN5F.pdf)
   - [Ruby on Rails Web Services and Integration with MongoDB](https://jlollis.github.io/certifications/rails-web-services-and-integration-with-mongodb/Coursera%20B5MBDXQ2JUD6.pdf)
   - [HTML, CSS and JavaScript for Web Developers](https://jlollis.github.io/certifications/ruby-on-rails-specialization/04%20HTML%20CSS%20and%20Javascript%20for%20Web%20Developers%202554Z68544VX.pdf)
-  - [Single Page Web Applications for Angular JS](https://jlollis.github.io/certifications/ruby-on-rails-specialization/05%20Single%20Page%20Web%20Applications%20with%20AngularJS%20J6GAXXDSMF5N.pdf
+  - [Single Page Web Applications for Angular JS](https://jlollis.github.io/certifications/ruby-on-rails-specialization/05%20Single%20Page%20Web%20Applications%20with%20AngularJS%20J6GAXXDSMF5N.pdf)
 
 - [University of Washington - CSE341: Programming Languages](https://jlollis.github.io/certifications/u-dub-programming-languages/UW_Programming_Languages_CSE341.pdf)
   - [University of Washington: Programming Languages, Part A](https://jlollis.github.io/certifications/u-dub-programming-languages/Coursera%20TFRAXFZ2ZPGK.pdf)
