@@ -41,6 +41,6 @@
 
 - [EPFL: Functional Programming Principles in Scala](https://jlollis.github.io/certifications/functional-programming-principles-in-scala/Coursera%20DJE2MJ9CX3P8.pdf)
 
-- [UCI Golang Specialization]()
+- [UCI Golang Specialization](https://www.coursera.org/specializations/google-golang)
   
   - [Getting Started with Go](https://jlollis.github.io/certifications/uci-golang-specialization/getting-started-with-go/Coursera%20BE8Y758Q5W8K.pdf)
