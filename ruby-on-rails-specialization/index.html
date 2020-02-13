@@ -1,49 +1,84 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>JHU Ruby Specialization Certificates</title>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.min.js"></script>
-<style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>JHU Ruby Specialization Certificates</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.min.js"></script>
+  <style>
+    html,
+    body {
+      height: 100%;
+    }
 
-html, body {
-  height: 100%;
-}
-
-/*
+    /*
 PDFObject appends the classname "pdfobject-container" to the target element.
 This enables you to style the element differently depending on whether the embed was successful.
 */
-.pdfobject-container {
-  height: 100%;
-  border: solid 1px #666;
-}
-/* PDFObject automatically assigns the class name "pdfobject" to the <embed> element */
-.pdfobject { 
-  border: solid 1px #666;
-}
-</style>
+    .pdfobject-container {
+      height: 80%;
+      float: right;
+      padding-top: 10%;
+    }
+
+    /* PDFObject automatically assigns the class name "pdfobject" to the <embed> element */
+    .pdfobject {
+      border: solid 2px rgb(51, 50, 114);
+    }
+
+    .course-description {
+      float: left;
+      /* border: solid 2px red; */
+      width: 55%;
+      margin-top: 10%;
+      margin: 10% 3% 3% 0;
+    }
+
+    h1 {
+      padding: 0px 0px 0px 10px;
+      /* border: solid 2px green; */
+    }
+
+    p {
+      padding: 0px 10px 20px 20px;
+    }
+
+  </style>
 </head>
 
 <body>
-<div id="pdf1"></div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.min.js"></script>
+  <div class="course-description">
+    <h1>Ruby on Rails Specialization</h1>
 
-<script>
+    <p>This Specialization covers the fundamentals of web development with Ruby on Rails. You’ll learn everything you
+      need
+      to develop your own web application using Ruby on Rails, SQL and NoSQL databases, and HTML/CSS, and Javascript. We
+      touch on advanced topics such as security, services using HTTP/RESTful access patterns, and user access and user
+      experience from multiple device platforms. In the final Capstone Project, you’ll apply your skills to develop a
+      web
+      application that hosts uploaded photos and displays them using a map.</p>
+  </div>
 
-var options = {
-	page: 1,
-	pdfOpenParams: {
-		navpanes: 1,
-		view: "FitH"
-	}
-};
+  <div id="pdf1"></div>
 
-PDFObject.embed("JHU_Ruby_on_Rails_Specialization.pdf", "#pdf1", options);
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.min.js"></script>
 
-</script>
+  <script>
+
+    var options = {
+      page: 1,
+      pdfOpenParams: {
+        navpanes: 1,
+        view: "FitH"
+      }
+    };
+
+    PDFObject.embed("JHU_Ruby_on_Rails_Specialization.pdf", "#pdf1", options);
+
+  </script>
 
 </body>
+
 </html>
