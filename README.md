@@ -40,7 +40,7 @@
 - [Stanford: Cryptography I](https://jlollis.github.io/certifications/stanford-crypotgraphy-i/Coursera%20Y5JR6BJJC5ZT.pdf)
 
 - [EPFL: Functional Programming Principles in Scala](https://jlollis.github.io/certifications/functional-programming-principles-in-scala/Coursera%20DJE2MJ9CX3P8.pdf)
--
+
 - [Google IT Support](https://jlollis.github.io/certifications/google-it-support-specialization/Google-IT-Support-Specialization-3MNYQ7V8NAHG.pdf)
 
 - [UCI Golang Specialization](https://www.coursera.org/specializations/google-golang)
